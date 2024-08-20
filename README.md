@@ -1,1 +1,1 @@
-This is a recipes website
+This is a recipes website. When it's complete I'll know more about the basics of HTML and CSS
